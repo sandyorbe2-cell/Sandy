@@ -1,0 +1,6 @@
+{
+  "name": "SanShort - Mini-Dramas y Mini-Novelas",
+  "description": "Plataforma para ver y subir capítulos de mini-dramas verticales y mini-novelas en español.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
